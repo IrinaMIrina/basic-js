@@ -15,3 +15,5 @@ describe('Sum digits', () => {
     assert.strictEqual(getSumOfDigits(123), 6);
   });
 });
+
+  
